@@ -49,4 +49,6 @@ WORKDIR  →  To See working director for a Container
 
 CMD  → Execute Command but during
 
+ARG → The ARG directive in Dockerfile defines the parameter name and defines its default value. This default value can be overridden by the --build-arg <parameter name>=<value> in the build command docker build .
+
 --------------------------------------------------
